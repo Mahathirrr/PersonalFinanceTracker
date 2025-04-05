@@ -76,4 +76,4 @@ Aplikasi ini menggunakan pendekatan interface untuk memisahkan tanggung jawab an
 
 ## Kontribusi
 
-Proyek ini dibuat sebagai bagian dari tugas akademik oleh Muhammad Mahathir dan Irfan Rizadi. Jika ada saran atau perbaikan, silakan hubungi kami melalui email kampus.
+Proyek ini dibuat sebagai bagian dari tugas akademik oleh Muhammad Mahathir dan Irfan Rizadi.
